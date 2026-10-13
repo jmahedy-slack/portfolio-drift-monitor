@@ -1,0 +1,14 @@
+{
+  "name": "portfolio-drift-monitor",
+  "version": "1.0.0",
+  "description": "Daily mandate drift dashboard with RAG status, rebalance proposals and dealing-desk CSV export",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "test:ci": "node --test --test-reporter=spec test/*.test.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "license": "MIT"
+}

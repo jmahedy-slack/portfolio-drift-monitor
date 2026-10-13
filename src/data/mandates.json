@@ -1,0 +1,113 @@
+{
+  "valuationDate": "2026-10-13",
+  "mandates": [
+    {
+      "id": "westbrook-pension-balanced",
+      "name": "Westbrook Pension Fund — Balanced",
+      "aum": 250000000,
+      "currency": "GBP",
+      "assetClasses": [
+        {
+          "id": "globalEquity",
+          "name": "Global Equity",
+          "targetWeight": 0.35,
+          "currentWeight": 0.392,
+          "toleranceBand": 0.04
+        },
+        {
+          "id": "fixedIncome",
+          "name": "Fixed Income",
+          "targetWeight": 0.4,
+          "currentWeight": 0.371,
+          "toleranceBand": 0.03
+        },
+        {
+          "id": "realAssets",
+          "name": "Real Assets",
+          "targetWeight": 0.15,
+          "currentWeight": 0.144,
+          "toleranceBand": 0.02
+        },
+        {
+          "id": "cash",
+          "name": "Cash",
+          "targetWeight": 0.1,
+          "currentWeight": 0.093,
+          "toleranceBand": 0.015
+        }
+      ]
+    },
+    {
+      "id": "riverside-endowment",
+      "name": "Riverside Endowment — Growth",
+      "aum": 120000000,
+      "currency": "GBP",
+      "assetClasses": [
+        {
+          "id": "globalEquity",
+          "name": "Global Equity",
+          "targetWeight": 0.55,
+          "currentWeight": 0.548,
+          "toleranceBand": 0.05
+        },
+        {
+          "id": "fixedIncome",
+          "name": "Fixed Income",
+          "targetWeight": 0.25,
+          "currentWeight": 0.252,
+          "toleranceBand": 0.04
+        },
+        {
+          "id": "realAssets",
+          "name": "Real Assets",
+          "targetWeight": 0.12,
+          "currentWeight": 0.118,
+          "toleranceBand": 0.025
+        },
+        {
+          "id": "cash",
+          "name": "Cash",
+          "targetWeight": 0.08,
+          "currentWeight": 0.082,
+          "toleranceBand": 0.02
+        }
+      ]
+    },
+    {
+      "id": "northgate-charity",
+      "name": "Northgate Charity — Cautious",
+      "aum": 45000000,
+      "currency": "GBP",
+      "assetClasses": [
+        {
+          "id": "globalEquity",
+          "name": "Global Equity",
+          "targetWeight": 0.22,
+          "currentWeight": 0.231,
+          "toleranceBand": 0.03
+        },
+        {
+          "id": "fixedIncome",
+          "name": "Fixed Income",
+          "targetWeight": 0.58,
+          "currentWeight": 0.569,
+          "toleranceBand": 0.04
+        },
+        {
+          "id": "realAssets",
+          "name": "Real Assets",
+          "targetWeight": 0.08,
+          "currentWeight": 0.078,
+          "toleranceBand": 0.02
+        },
+        {
+          "id": "cash",
+          "name": "Cash",
+          "targetWeight": 0.12,
+          "currentWeight": 0.122,
+          "toleranceBand": 0.025
+        }
+      ]
+    }
+  ]
+}
